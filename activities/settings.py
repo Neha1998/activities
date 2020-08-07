@@ -25,7 +25,7 @@ SECRET_KEY = 'b6taq5+a2o=*(b1j0bbxvs=ebp+p(+ox1-#fdf!w^56nexy&-!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['stark-hamlet-63311.herokuapp.com']
 
 
 # Application definition
